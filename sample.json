@@ -1,0 +1,122 @@
+[
+    {
+        "id":"1",
+        "nombre":"Riverdale",
+        "temporadas":"4",
+        "año":"2017"
+    },
+    {
+        "id":"2",
+        "nombre":"Dark",
+        "temporadas":"3",
+        "año":"2017"
+    },
+    {
+        "id":"3",
+        "nombre":"Stranger Things",
+        "temporadas":"3",
+        "año":"2016"
+    },
+    {
+        "id":"4",
+        "nombre":"Los 100",
+        "temporadas":"7",
+        "año":"2014"
+    },
+    {
+        "id":"5",
+        "nombre":"13 Reasons Why",
+        "temporadas":"4",
+        "año":"2017"
+    },
+    {
+        "id":"6",
+        "nombre":"La casa de Papel",
+        "temporadas":"4",
+        "año":"2017"
+    },
+    {
+        "id":"7",
+        "nombre":"You",
+        "temporadas":"2",
+        "año":"2018"
+    },
+    {
+        "id":"8",
+        "nombre":"El mundo oculto de Sabrina",
+        "temporadas":"3",
+        "año":"2018"
+    },
+    {
+        "id":"9",
+        "nombre":"Ozark",
+        "temporadas":"3",
+        "año":"2017"
+    },
+    {
+        "id":"10",
+        "nombre":"Dark",
+        "temporadas":"3",
+        "año":"2017"
+    },
+    {
+        "id":"11",
+        "nombre":"Control Z",
+        "temporadas":"1",
+        "año":"2020"
+    },
+    {
+        "id":"12",
+        "nombre":"Elite",
+        "temporadas":"3",
+        "año":"2018"
+    },
+    {
+        "id":"13",
+        "nombre":"Rosario Tijeras",
+        "temporadas":"3",
+        "año":"2016"
+    },
+    {
+        "id":"14",
+        "nombre":"Designated Survivor",
+        "temporadas":"3",
+        "año":"2016"
+    },
+    {
+        "id":"15",
+        "nombre":"The Rain",
+        "temporadas":"3",
+        "año":"2018"
+    },
+    {
+        "id":"16",
+        "nombre":"Dinastia",
+        "temporadas":"3",
+        "año":"2017"
+    },
+    {
+        "id":"17",
+        "nombre":"Oscuro Deseo",
+        "temporadas":"1",
+        "año":"2020"
+    },
+    {
+        "id":"18",
+        "nombre":"Suits",
+        "temporadas":"9",
+        "año":"2011"
+    },
+    {
+        "id":"19",
+        "nombre":"The Witcher",
+        "temporadas":"1",
+        "año":"2019"
+    },
+    {
+        "id":"20",
+        "nombre":"Anne with an E",
+        "temporadas":"3",
+        "año":"2017"
+    }
+]
